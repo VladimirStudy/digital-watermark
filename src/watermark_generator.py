@@ -1,7 +1,7 @@
 import cv2
 import random
 import numpy as np
-
+# ещё один комментарий
 IMG_WIDTH = 1200
 IMG_HEIGHT = 800
 WATERMARK_WIDTH = 256
